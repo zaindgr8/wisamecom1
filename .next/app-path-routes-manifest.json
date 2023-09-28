@@ -1,0 +1,8 @@
+{
+  "/page": "/",
+  "/cart/page": "/cart",
+  "/studio/page": "/studio",
+  "/success/page": "/success",
+  "/api/checkout/route": "/api/checkout",
+  "/products/[slug]/page": "/products/[slug]"
+}
