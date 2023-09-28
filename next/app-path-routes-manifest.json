@@ -1,8 +1,0 @@
-{
-  "/page": "/",
-  "/success/page": "/success",
-  "/cart/page": "/cart",
-  "/studio/page": "/studio",
-  "/products/[slug]/page": "/products/[slug]",
-  "/api/checkout/route": "/api/checkout"
-}
